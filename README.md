@@ -1,43 +1,38 @@
 # 🎬 Cinema Management System – Data Structures Project
 
-## 📌 Project Description
+## Project Description
 This project is a Java-based system that simulates a cinema management application using fundamental **data structures**. It allows the management of movies and related operations through custom implementations such as linked lists,stacks,queue.
 
 The project also includes full technical and user documentation, as well as a runnable executable version.
 
----
-
-## 🧠 Technologies Used
+## Technologies Used
 - Java (JDK 8+)
 - Object-Oriented Programming (OOP)
 - Data Structures (Linked Lists, stack,queue, etc.)
 - Java Swing 
----
 
-## 📂 Project Contents
 
+## Project Contents
 This repository includes:
 
-### 💻 Source Code
+### Source Code
 - Custom implementation of data structures
 - Main system classes
 - Cinema management logic
 - Node and linked list handling
 
-### 📘 Technical Manual
+### Technical Manual
 - System architecture explanation
 - Class and method descriptions
 - Design and implementation details
 
-### 👤 User Manual
+### User Manual
 - Step-by-step instructions to run the system
 - Usage guide
 - Functional examples
 
-### ▶️ Executable File
+### Executable File
 - Ready-to-run version of the system (no compilation required)
-
----
 
 ## ⚙️ Main Features
 - Add, update, and delete movies
@@ -45,10 +40,10 @@ This repository includes:
 - Display cinema information
 - Practical application of data structures in a real system
 
----
+
 ## Author 
-Fernanda Bracho Guitron
-Angel Gael Gaytan
+- Fernanda Bracho Guitron
+- Angel Gael Gaytan Bustamante
 
 ## 🚀 How to Run the Project
 
